@@ -8,7 +8,7 @@ Features:
 	- 60 confirmations for minted blocks
 	- support transaction message	
 	- The default ports are 
-		- Connect: 13863 
-		- RPC: 13864
+	  - Connect: 13863 
+	  - RPC: 13864
 	- Premine Of 100,000,000 BFB
 
